@@ -1,0 +1,28 @@
+name: Vedic Integrative Health
+favicon: null
+layout_spectrum: 0.9988418177235872
+typography_spectrum: 0.2852645106613636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5677952095866203
+  lightness: 0.4187297576572746
+  saturation: 0.613459158455953
+  rhythmicContrast: 0.6024042980279773
+purpose: []
