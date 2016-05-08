@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vedic Integrative Health]]></title>
+        <description><![CDATA[Vedic Integrative Health]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 15:51:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Access to this site]]></title>
+            <description><![CDATA[<article><h1>Access to this site</h1><p></p></article>]]></description>
+            <link>undefinedaccess-to-this-site/index.html</link>
+            <guid isPermaLink="false">0acd4ca8-b1da-4b17-bdc8-c356c7f3d51a</guid>
+            <pubDate>Sun, 08 May 2016 15:51:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
